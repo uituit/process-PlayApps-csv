@@ -1,0 +1,11 @@
+,Description,Transaction Date,Transaction Time,Tax Type,Transaction Type,Refund Type,Product Title,Product id,Product Type,Sku Id,Hardware,Buyer Country,Buyer State,Buyer Postal Code,Buyer Currency,Amount (Buyer Currency),Currency Conversion Rate,Merchant Currency,Amount (Merchant Currency),Base Plan ID,Offer ID,Units
+0,GPA.0000-0000-0000-00000,"Mar 1, 2022",3:11:51 AM PST,,Charge,,Your product title 1,your.product.id1,1,sku_id1,,HK,-,,HKD,8.0,1.0,HKD,8.0,,,1
+1,GPA.0000-0000-0000-00000,"Mar 1, 2022",3:11:51 AM PST,,Google fee,,Your product title 1,your.product.id1,1,sku_id1,,HK,-,,HKD,-2.4,1.0,HKD,-2.4,,,0
+2,GPA.0000-0000-0000-00001..0,"Mar 1, 2022",5:12:55 PM PST,,Charge,,Your subscription product,your.subscription.product.id,1,subscriptionProduct.sku,,TH,,0.0,THB,38.0,0.23872,HKD,9.07,,,1
+3,GPA.0000-0000-0000-00001..0,"Mar 1, 2022",5:12:55 PM PST,,Google fee,,Your subscription product,your.subscription.product.id,1,subscriptionProduct.sku,,TH,,0.0,THB,-5.7,0.23872,HKD,-1.36,,,0
+4,GPA.0000-0000-0000-00002..2,"Mar 2, 2022",11:51:15 AM PST,,Charge,,Your subscription product,your.subscription.product.id,1,subscriptionProduct.sku_R,,US,CA,0.0,USD,1.0,7.8134,HKD,7.813,,,1
+5,GPA.0000-0000-0000-00002..2,"Mar 2, 2022",11:51:15 AM PST,,Google fee,,Your subscription product,your.subscription.product.id,1,subscriptionProduct.sku_R,,US,CA,0.0,USD,-0.15,7.8134,HKD,-1.17,,,0
+6,GPA.0000-0000-0000-00007,"Mar 4, 2022",9:57:29 AM PST,,Charge,,Your product title 2,your.product.id2,1,sku_id2,a71x,HK,九龍,,HKD,58.0,1.0,HKD,58.0,,,1
+7,GPA.0000-0000-0000-00007,"Mar 4, 2022",9:57:29 AM PST,,Google fee,,Your product title 2,your.product.id2,1,sku_id2,a71x,HK,九龍,,HKD,-17.4,1.0,HKD,-74.4,,,0
+8,GPA.0000-0000-0000-00007,"Mar 7, 2022",10:26:46 PM PST,,Charge refund,Full,Your product title 2,your.product.id2,1,sku_id2,a71x,HK,九龍,,HKD,-248.0,1.0,HKD,-58.0,,,-1
+9,GPA.0000-0000-0000-00007,"Mar 7, 2022",10:26:46 PM PST,,Google fee refund,Full,Your product title 2,your.product.id2,1,sku_id2,a71x,HK,九龍,,HKD,74.4,1.0,HKD,17.4,,,0
